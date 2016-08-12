@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "O Vetor da Guerra."
 title_separator          : "-"
-name                     : "Brandon"
+name                     : "Brandon Dias"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Brandon Dias"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an amazing pokémon."
+  location         : "Somewhere, inside the Rainbow"
+  email            : "dias.unb@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
